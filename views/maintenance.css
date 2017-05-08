@@ -1,0 +1,22 @@
+body {
+    font-family:arial;
+}
+
+h2 {
+	font-weight:400;
+	text-align:center;
+	font-size:22px;
+}
+
+
+#logo {
+	margin:0px auto;
+	padding:100px 0px 0px 0px;
+	width:169px;
+}
+
+#message {
+	margin:0px auto;
+	padding:50px 0px 50px 0px;
+	width:425px;
+}
